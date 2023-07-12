@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.Final.resources
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.Properties.Resources.resources
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.GenerateResource.cache
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\WindowsFormsFinal.exe.config
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\WindowsFormsFinal.exe
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\WindowsFormsFinal.pdb
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.exe
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.pdb
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\System.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\System.Data.SqlClient.xml
+C:\Users\leand\OneDrive\Escritorio\final\FINAL_LAB_2\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.CopyComplete
